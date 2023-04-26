@@ -1,0 +1,25 @@
+<HTML>
+	<HEAD>
+		<TITLE>Arroz con leche</TITLE> 
+	</HEAD>
+	<BODY>
+	<BODY BACKGROUND="D:\Pagina pepe\fondo.jpeg"
+	<BR>
+
+<H1 ALIGN="center">Letra de la cancion: </H1>
+<hr align="center" SIZE="4" WIDTH="70%" COLOR="black" NOSHADE>
+
+
+<p align="center"> <br>
+
+</p>
+
+</BODY>
+</HTML>
+
+
+
+
+
+
+
